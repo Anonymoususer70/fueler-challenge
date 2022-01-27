@@ -152,6 +152,10 @@ body {
   color: #fff;
 }
 
+option{
+  color: #000;
+}
+
 .stream-drop select:focus {
   border: none;
   outline: none;
